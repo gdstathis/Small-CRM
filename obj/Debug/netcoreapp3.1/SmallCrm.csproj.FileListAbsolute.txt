@@ -1,0 +1,11 @@
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.exe
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.deps.json
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.runtimeconfig.json
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.runtimeconfig.dev.json
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.dll
+C:\Users\Gs\Source\Repos\Small-CRM\bin\Debug\netcoreapp3.1\SmallCrm.pdb
+C:\Users\Gs\Source\Repos\Small-CRM\obj\Debug\netcoreapp3.1\SmallCrm.csprojAssemblyReference.cache
+C:\Users\Gs\Source\Repos\Small-CRM\obj\Debug\netcoreapp3.1\SmallCrm.AssemblyInfoInputs.cache
+C:\Users\Gs\Source\Repos\Small-CRM\obj\Debug\netcoreapp3.1\SmallCrm.AssemblyInfo.cs
+C:\Users\Gs\Source\Repos\Small-CRM\obj\Debug\netcoreapp3.1\SmallCrm.dll
+C:\Users\Gs\Source\Repos\Small-CRM\obj\Debug\netcoreapp3.1\SmallCrm.pdb
